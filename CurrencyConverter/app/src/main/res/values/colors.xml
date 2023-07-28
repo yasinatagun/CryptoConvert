@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="topLabel">#B3AFAF</color>
+    <color name="bottomLabel">#CD4E4E</color>
+    <color name="appBackground">#090A0A</color>
+    <color name="buttonBackground">#191919</color>
+    <color name="spinnerColor">#fff</color>
+    <color name="orange">#FF7601</color>
+    <color name="textColor">#919191</color>
+</resources>

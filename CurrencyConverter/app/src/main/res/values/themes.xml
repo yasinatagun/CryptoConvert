@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CurrencyConverter" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimaryDark"> @color/appBackground</item>
+
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+    <style name="SpinnerTheme" parent="android:Widget.Material.Spinner.Underlined">
+        <item name="android:background">@drawable/spinner_layout_shape
+        </item>
+        <item name="android:popupBackground">@drawable/spinner_layout_shape
+        </item>
+
+        <item name="android:textAlignment">textStart</item>
+    </style>
+    <style name="Theme.CurrencyConverter" parent="Base.Theme.CurrencyConverter" />
+</resources>
